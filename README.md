@@ -1,5 +1,9 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+
+[![Build Status](https://dev.azure.com/superusers-kursus/devops/_apis/build/status/Jalalhejazi.calculator?branchName=master)](https://dev.azure.com/superusers-kursus/devops/_build/latest?definitionId=9&branchName=master)
+
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
